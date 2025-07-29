@@ -45,7 +45,7 @@ Saki_Market_Game/
 │   ├── blockchain_engine.py     # Blockchain engine
 │   ├── saki_core.py             # AI optimization and market logic
 │   ├── input_handler.py         # User input validation
-├── LICENSE.txt                  # License information
+├── LICENSE.txt                  # License agreement for popup
 ├── serial.txt                   # License hash for audio activation
 ├── stagano.py                   # Audio hash decoding utility
 ├── requirements.txt             # Python dependencies
@@ -56,7 +56,7 @@ Saki_Market_Game/
 
 ## 🛠️ Installation & First Run Instructions (For End Users)
 
-1. **Download** the `.exe` release of **Saki Market Game** from the official release page.
+1. **Download** the `.exe` release of **Saki Market Game** from the official [GitHub Releases](https://github.com/Tart-saki/saki-market-game/releases) page.
 2. **Run the application**:  
    - The first time you run it:
      - A **license agreement popup** will appear → click ✅ **Accept** to continue.
@@ -75,7 +75,7 @@ If you want to **develop or modify** the project:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/Saki_Market_Game.git
+git clone https://github.com/Tart-saki/saki-market-game.git
 cd Saki_Market_Game
 ```
 
@@ -113,16 +113,18 @@ python -m saki_market_game.main
 
 ---
 
-📘 Git Ignore Documentation
-📖 Learn what’s ignored in .gitignore → README_GITIGNORE.md
-
----
 ## 🧠 What Is PoCC?
 
 > **Proof of Competitive Contribution (PoCC)** is a novel blockchain consensus where participants are rewarded not just for participation — but for contributing fairly, competitively, and efficiently to the market.
 
 Reward = `Utility × Quality × Competitiveness`  
 This creates **anti-monopoly pressure** and incentivizes **dynamic pricing**.
+
+---
+
+## 📄 Git Ignore Documentation
+
+Refer to [README_GITIGNORE.md](README_GITIGNORE.md) for details on why certain files are excluded from Git tracking.
 
 ---
 
@@ -150,8 +152,9 @@ For licensing inquiries, contact **saki.pocc@gmail.com**.
 **Behnam Saki**  
 *Founder, Tart | Creator of Saki Market Game*  
 📍 TART Innovation Lab  
-🔗 [LinkedIn](https://www.linkedin.com/in/technologic-art-260a4482/)
-🔗[TART YouTube](https://www.youtube.com/@Tart-Saki)
+🔗 [LinkedIn](https://www.linkedin.com/in/technologic-art-260a4482/)  
+🔗 [TART YouTube](https://www.youtube.com/@Tart-Saki)
+
 ---
 
 ## 🌎 Vision
