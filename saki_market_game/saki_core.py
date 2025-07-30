@@ -17,7 +17,7 @@ def initialize_prices(num_sellers, production_costs, max_profit_percentage):
         while True:
             try:
                 price = float(input(
-                    f"Enter initial price for seller {i + 1} (valid range: {valid_range_low:.2f} - {valid_range_high:.2f}): "))
+                    f"Enter initial price for seller {i + 1}($/kWh) (valid range: {valid_range_low:.2f} - {valid_range_high:.2f}): "))
                 if valid_range_low <= price <= valid_range_high:
                     prices.append(price)
                     break
